@@ -47,6 +47,8 @@ Following the failed authentication activity, a successful Windows logon was obs
 | Workstation | DESKTOP-MKQCJ1N$ |
 | Time | 9:20:13 PM |
 
+![Success Logon](<../screenshots/VirtualBox wazuh 4624 logon.png>)
+
 ---
 
 ## Timeline
