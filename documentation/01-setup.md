@@ -22,12 +22,12 @@ Ubuntu VM
 ├── Wazuh Manager
 ├── Wazuh Indexer
 └── Wazuh Dashboard
- 
-# Environment
+```
+
+## Environment
 
 
 ### Ubuntu VM
-
 The Ubuntu virtual machine hosts the Wazuh server environment, including:
 
 - Wazuh Manager
@@ -35,7 +35,6 @@ The Ubuntu virtual machine hosts the Wazuh server environment, including:
 - Wazuh Dashboard
 
 ### Windows VM
-
 The Windows virtual machine acts as the monitored endpoint and contains:
 
 - Wazuh Agent
@@ -45,7 +44,6 @@ The Windows virtual machine acts as the monitored endpoint and contains:
 ---
 
 ## Objective
-
 The primary objective of this lab was to build an endpoint monitoring environment and demonstrate a basic SOC investigation workflow.
 
 The project focuses on:
@@ -62,9 +60,7 @@ The project focuses on:
 ---
 
 ## Network Configuration
-
 The Ubuntu and Windows virtual machines communicate through a VirtualBox NAT Network.
-
 The Windows VM communicates with the Ubuntu Wazuh server as its monitored endpoint.
 
 ---
@@ -86,7 +82,5 @@ Sysmon was used to provide additional endpoint telemetry, including process crea
 ---
 
 ## Project Scope
-
-This project focuses on practical endpoint monitoring and investigation rather than advanced custom detection engineering or automated response.
-
-The investigations were performed in a controlled lab environment to demonstrate the SOC analysis process
+This project focuses on practical endpoint monitoring and investigation.
+The investigations were performed in a controlled lab environment to demonstrate the SOC analysis process.
