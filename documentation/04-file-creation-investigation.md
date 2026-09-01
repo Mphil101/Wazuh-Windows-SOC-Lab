@@ -20,6 +20,8 @@ A Sysmon Event ID 11 event was observed in Wazuh with the following information:
 | User | Mark |
 | Event Time | 10:12:12 PM |
 
+![EventID 11](<../screenshots/VirtualBox wazuh windows software.png>)
+
 ---
 
 ## Analysis
