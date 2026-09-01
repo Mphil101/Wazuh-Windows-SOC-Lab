@@ -12,6 +12,8 @@ Windows Security Event ID 4625 was used to identify failed authentication attemp
 
 A total of 11 failed logon attempts were intentionally generated on the Windows endpoint. Windows Event Viewer recorded the events, while Wazuh successfully displayed multiple corresponding 4625 events.
 
+![4625 attempts detected](<screenshots/VirtualBox wazuh 4625 attempts.png>)
+
 ---
 
 ## Observed Failed Logon
