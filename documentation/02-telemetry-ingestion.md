@@ -6,7 +6,7 @@ After configuring the Wazuh Agent on the Windows endpoint, telemetry was verifie
 
 The purpose of this stage was to confirm that Windows Security events and Sysmon events were successfully being collected and forwarded to the Wazuh server.
 
-![Active Agent](<screenshots/VirtualBox windows agent active.png>)
+![ActiveAgent](<screenshots/VirtualBox windows agent active.png>)
 
 ---
 
