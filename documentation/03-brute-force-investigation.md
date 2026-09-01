@@ -30,6 +30,8 @@ A representative failed logon event contained the following information:
 | Workstation | DESKTOP-MKQCJ1N$ |
 | Time | 9:09:19 PM |
 
+![Failed Logon](<../screenshots/VirtualBox wazuh failed logon.png>)
+
 ---
 
 ## Successful Authentication
