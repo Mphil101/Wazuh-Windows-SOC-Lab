@@ -1,4 +1,4 @@
-# Wazuh Dashboard
+#  Custom Wazuh Visualization Dashboard
 
 ## Dashboard Overview
 
