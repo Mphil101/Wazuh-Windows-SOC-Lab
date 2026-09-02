@@ -15,7 +15,7 @@ The dashboard contains four visualizations:
 
 ## Dashboard
 
-![Wazuh Dashboard](../screenshots/wazuh-dashboard.png)
+![Wazuh Dashboard](<../screenshots/wazuh dashboard.png>)
 
 *Figure 1: Wazuh Dashboard displaying Windows authentication, process creation, and file creation activity.*
 
